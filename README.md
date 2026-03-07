@@ -1,22 +1,29 @@
-# GitHub Practice
+hello_world.cpp
+sum_of_two_numbers.cpp
+even_or_odd.cpp
+largest_of_three_numbers.cpp
+factorial.cpp
+fibonacci_series.cpp
+prime_number.cpp
+palindrome_number.cpp
+multiplication_table.cpp
+sum_of_n_numbers.cpp
+swap_two_numbers.cpp
+reverse_number.cpp
 
-This repository contains my daily coding practice.
+array_sum.cpp
+array_max_element.cpp
+array_min_element.cpp
+array_reverse.cpp
+linear_search.cpp
+binary_search.cpp
 
-## Languages
-- C++ (Data Structures and Algorithms)
-- Python (Full Stack Development)
+string_length.cpp
+string_reverse.cpp
+palindrome_string.cpp
+count_vowels.cpp
 
-## Daily Practice
-
-Day 1
-- C++ : Basic program
-- Python : Basic program
-
-Day 2
-- C++ : Sum of two numbers
-- Python : Sum of two numbers
-
-## Goal
-To improve my coding skills and maintain daily consistency.
-
-Author: Basavaraj
+stack_implementation.cpp
+queue_implementation.cpp
+linked_list_basic.cpp
+pattern_printing.cpp
